@@ -1,0 +1,185 @@
+2022-01-28 18:43:44,468 - iBANKING -INFO - Browser Driver Initiated
+2022-01-28 18:43:46,129 - iBANKING -INFO - Closing the Browser
+2022-01-28 18:48:24,935 - iBANKING -INFO - Browser Driver Initiated
+2022-01-28 18:48:26,771 - iBANKING -INFO - Closing the Browser
+2022-01-28 18:48:52,910 - iBANKING -INFO - Browser Driver Initiated
+2022-01-28 18:48:54,182 - iBANKING -INFO - Closing the Browser
+2022-01-28 18:51:10,068 - iBANKING -INFO - Browser Driver Initiated
+2022-01-28 18:51:11,023 - iBANKING -INFO - Closing the Browser
+2022-01-28 18:52:08,831 - iBANKING -INFO - Browser Driver Initiated
+2022-01-28 18:52:09,943 - iBANKING -INFO - Closing the Browser
+2022-01-28 18:59:20,531 - iBANKING -INFO - Browser Driver Initiated
+2022-01-28 18:59:23,923 - iBANKING -INFO - Closing the Browser
+2022-01-28 19:02:54,785 - iBANKING -INFO - Browser Driver Initiated
+2022-01-28 19:03:22,233 - iBANKING -INFO - Banking Application Launched
+2022-01-28 19:03:26,170 - iBANKING -INFO - Entered User Name
+2022-01-28 19:03:26,339 - iBANKING -INFO - Entered Password
+2022-01-28 19:03:35,874 - iBANKING -INFO - Submitted
+2022-01-28 19:03:35,939 - iBANKING -INFO - Application is not successfully Navigated to Home Page
+2022-01-28 19:03:38,307 - iBANKING -INFO - Closing the Browser
+2022-01-31 13:33:19,653 - iBANKING -INFO - Browser Driver Initiated
+2022-01-31 13:34:08,352 - iBANKING -INFO - Closing the Browser
+2022-01-31 13:36:09,690 - iBANKING -INFO - Browser Driver Initiated
+2022-01-31 13:37:02,162 - iBANKING -INFO - Closing the Browser
+2022-01-31 16:48:47,905 - iBANKING -INFO - Browser Driver Initiated
+2022-01-31 16:48:58,641 - iBANKING -INFO - Banking Application Launched
+2022-01-31 16:49:00,275 - iBANKING -INFO - Entered User Name
+2022-01-31 16:49:00,502 - iBANKING -INFO - Entered Password
+2022-01-31 16:49:07,307 - iBANKING -INFO - Submitted
+2022-01-31 16:49:07,564 - iBANKING -INFO - Application is not successfully Navigated to Home Page
+2022-01-31 16:49:09,087 - iBANKING -INFO - Closing the Browser
+2022-01-31 16:52:48,650 - iBANKING -INFO - Browser Driver Initiated
+2022-01-31 16:53:03,996 - iBANKING -INFO - Banking Application Launched
+2022-01-31 16:53:08,012 - iBANKING -INFO - Entered User Name
+2022-01-31 16:53:08,239 - iBANKING -INFO - Entered Password
+2022-01-31 16:53:12,777 - iBANKING -INFO - Submitted
+2022-01-31 16:53:15,886 - iBANKING -INFO - Application is not successfully Navigated to Home Page
+2022-01-31 16:53:17,638 - iBANKING -INFO - Closing the Browser
+2022-01-31 16:55:42,076 - iBANKING -INFO - Browser Driver Initiated
+2022-01-31 16:55:51,743 - iBANKING -INFO - Banking Application Launched
+2022-01-31 16:55:52,097 - iBANKING -INFO - Entered User Name
+2022-01-31 16:55:52,430 - iBANKING -INFO - Entered Password
+2022-01-31 16:55:55,567 - iBANKING -INFO - Submitted
+2022-01-31 16:55:58,601 - iBANKING -INFO - Application successfully Navigated to Home Page
+2022-01-31 16:55:59,461 - iBANKING -INFO - Closing the Browser
+2022-01-31 16:58:28,505 - iBANKING -INFO - Browser Driver Initiated
+2022-01-31 16:58:40,240 - iBANKING -INFO - Banking Application Launched
+2022-01-31 16:58:40,572 - iBANKING -INFO - Entered User Name
+2022-01-31 16:58:40,801 - iBANKING -INFO - Entered Password
+2022-01-31 16:58:46,670 - iBANKING -INFO - Submitted
+2022-01-31 16:58:49,855 - iBANKING -INFO - Application successfully Navigated to Home Page
+2022-01-31 16:58:50,900 - iBANKING -INFO - Closing the Browser
+2022-02-01 12:59:11,512 - iBANKING -INFO - Browser Driver Initiated
+2022-02-01 12:59:11,916 - iBANKING -INFO - Browser Maximized
+2022-02-01 12:59:31,525 - iBANKING -INFO - Application Launched
+2022-02-01 12:59:34,338 - iBANKING -INFO - Entered User Name
+2022-02-01 12:59:35,017 - iBANKING -INFO - Entered Password
+2022-02-01 12:59:39,356 - iBANKING -INFO - Submitted
+2022-02-01 12:59:42,413 - iBANKING -INFO - Application successfully Navigated to Home Page
+2022-02-01 12:59:43,558 - iBANKING -INFO - Closing the Browser
+2022-02-01 13:08:40,431 - iBANKING -INFO - Browser Driver Initiated
+2022-02-01 13:08:41,189 - iBANKING -INFO - Browser Maximized
+2022-02-01 13:08:51,865 - iBANKING -INFO - Application Launched
+2022-02-01 13:08:56,421 - iBANKING -INFO - Closing the Browser
+2022-02-01 13:50:07,903 - iBANKING -INFO - Browser Driver Initiated
+2022-02-01 13:50:09,754 - iBANKING -INFO - Browser Maximized
+2022-02-01 13:50:21,295 - iBANKING -INFO - Application Launched
+2022-02-01 13:50:23,602 - iBANKING -INFO - Closing the Browser
+2022-02-01 13:53:44,799 - iBANKING -INFO - Browser Driver Initiated
+2022-02-01 13:53:45,031 - iBANKING -INFO - Browser Maximized
+2022-02-01 13:54:02,102 - iBANKING -INFO - Application Launched
+2022-02-01 13:54:03,762 - iBANKING -INFO - Closing the Browser
+2022-02-01 13:56:49,776 - iBANKING -INFO - Browser Driver Initiated
+2022-02-01 13:56:49,924 - iBANKING -INFO - Browser Maximized
+2022-02-01 13:57:02,980 - iBANKING -INFO - Application Launched
+2022-02-01 13:57:05,185 - iBANKING -INFO - Closing the Browser
+2022-02-01 15:47:39,677 - iBANKING -INFO - Browser Driver Initiated
+2022-02-01 15:47:41,319 - iBANKING -INFO - Browser Maximized
+2022-02-01 15:48:00,588 - iBANKING -INFO - Application Launched
+2022-02-01 15:48:15,373 - iBANKING -INFO - Closing the Browser
+2022-02-01 15:58:41,806 - iBANKING -INFO - Browser Driver Initiated
+2022-02-01 15:58:44,516 - iBANKING -INFO - Browser Maximized
+2022-02-01 15:59:07,415 - iBANKING -INFO - Application Launched
+2022-02-01 15:59:17,188 - iBANKING -INFO - Closing the Browser
+2022-02-01 16:44:13,557 - iBANKING -INFO - Browser Driver Initiated
+2022-02-01 16:44:14,052 - iBANKING -INFO - Browser Maximized
+2022-02-01 16:44:30,253 - iBANKING -INFO - Application Launched
+2022-02-01 16:45:16,246 - iBANKING -INFO - Closing the Browser
+2022-02-02 16:55:16,774 - iBANKING -INFO - Browser Driver Initiated
+2022-02-02 16:55:17,200 - iBANKING -INFO - Browser Maximized
+2022-02-02 16:55:27,851 - iBANKING -INFO - Application Launched
+2022-02-02 16:56:17,675 - iBANKING -INFO - Closing the Browser
+2022-02-02 18:43:22,893 - iBANKING -INFO - Browser Driver Initiated
+2022-02-02 18:43:23,175 - iBANKING -INFO - Browser Maximized
+2022-02-02 18:43:33,836 - iBANKING -INFO - Application Launched
+2022-02-02 18:43:35,323 - iBANKING -INFO - Entered User Name
+2022-02-02 18:43:36,127 - iBANKING -INFO - Entered Password
+2022-02-02 18:43:45,112 - iBANKING -INFO - Submitted
+2022-02-02 18:43:48,603 - iBANKING -INFO - Clicked on New Customer Link
+2022-02-02 18:43:58,482 - iBANKING -INFO - Entered Customer Name
+2022-02-02 18:43:59,041 - iBANKING -INFO - Select Customer Gender
+2022-02-02 18:44:00,607 - iBANKING -INFO - Entered the Customer DOB
+2022-02-02 18:44:01,062 - iBANKING -INFO - Entered Customer Address
+2022-02-02 18:44:01,294 - iBANKING -INFO - Entered Customer City
+2022-02-02 18:44:01,490 - iBANKING -INFO - Entered Customer State
+2022-02-02 18:44:01,694 - iBANKING -INFO - Entered Customer Postal Code
+2022-02-02 18:44:01,894 - iBANKING -INFO - Entered Customer Contact Number
+2022-02-02 18:44:02,166 - iBANKING -INFO - Entered Customer email Address
+2022-02-02 18:44:06,090 - iBANKING -INFO - Closing the Browser
+2022-02-02 18:45:54,482 - iBANKING -INFO - Browser Driver Initiated
+2022-02-02 18:45:54,679 - iBANKING -INFO - Browser Maximized
+2022-02-02 18:46:03,894 - iBANKING -INFO - Application Launched
+2022-02-02 18:46:04,444 - iBANKING -INFO - Entered User Name
+2022-02-02 18:46:04,621 - iBANKING -INFO - Entered Password
+2022-02-02 18:46:08,729 - iBANKING -INFO - Submitted
+2022-02-02 18:46:11,963 - iBANKING -INFO - Clicked on New Customer Link
+2022-02-02 18:46:19,087 - iBANKING -INFO - Entered Customer Name
+2022-02-02 18:46:19,933 - iBANKING -INFO - Select Customer Gender
+2022-02-02 18:46:20,263 - iBANKING -INFO - Entered the Customer DOB
+2022-02-02 18:46:20,531 - iBANKING -INFO - Entered Customer Address
+2022-02-02 18:46:20,675 - iBANKING -INFO - Entered Customer City
+2022-02-02 18:46:20,834 - iBANKING -INFO - Entered Customer State
+2022-02-02 18:46:21,013 - iBANKING -INFO - Entered Customer Postal Code
+2022-02-02 18:46:21,400 - iBANKING -INFO - Entered Customer Contact Number
+2022-02-02 18:46:21,941 - iBANKING -INFO - Entered Customer email Address
+2022-02-02 18:46:43,402 - iBANKING -INFO - Closing the Browser
+2022-02-02 18:53:49,645 - iBANKING -INFO - Browser Driver Initiated
+2022-02-02 18:53:49,790 - iBANKING -INFO - Browser Maximized
+2022-02-02 18:54:02,873 - iBANKING -INFO - Application Launched
+2022-02-02 18:54:03,410 - iBANKING -INFO - Closing the Browser
+2022-02-03 11:21:11,081 - iBANKING -INFO - Browser Driver Initiated
+2022-02-03 11:21:11,442 - iBANKING -INFO - Browser Maximized
+2022-02-03 11:21:21,444 - iBANKING -INFO - Application Launched
+2022-02-03 11:21:22,212 - iBANKING -INFO - Entered User Name
+2022-02-03 11:21:22,425 - iBANKING -INFO - Entered Password
+2022-02-03 11:21:26,355 - iBANKING -INFO - Submitted
+2022-02-03 11:21:29,459 - iBANKING -INFO - Application successfully Navigated to Home Page
+2022-02-03 11:21:30,633 - iBANKING -INFO - Closing the Browser
+2022-02-03 11:23:53,146 - iBANKING -INFO - Browser Driver Initiated
+2022-02-03 11:23:53,299 - iBANKING -INFO - Browser Maximized
+2022-02-03 11:24:05,998 - iBANKING -INFO - Application Launched
+2022-02-03 11:24:06,365 - iBANKING -INFO - Entered User Name
+2022-02-03 11:24:06,574 - iBANKING -INFO - Entered Password
+2022-02-03 11:24:09,308 - iBANKING -INFO - Submitted
+2022-02-03 11:24:12,345 - iBANKING -INFO - Application successfully Navigated to Home Page
+2022-02-03 11:24:13,149 - iBANKING -INFO - Closing the Browser
+2022-02-03 11:24:15,172 - iBANKING -INFO - Browser Driver Initiated
+2022-02-03 11:24:15,954 - iBANKING -INFO - Browser Maximized
+2022-02-03 11:24:27,178 - iBANKING -INFO - Application Launched
+2022-02-03 11:25:05,501 - iBANKING -INFO - Closing the Browser
+2022-02-03 11:50:06,642 - iBANKING -INFO - Browser Driver Initiated
+2022-02-03 11:50:07,327 - iBANKING -INFO - Browser Maximized
+2022-02-03 11:50:27,466 - iBANKING -INFO - Application Launched
+2022-02-03 11:50:32,883 - iBANKING -INFO - Entered User Name
+2022-02-03 11:50:33,098 - iBANKING -INFO - Entered Password
+2022-02-03 11:50:39,903 - iBANKING -INFO - Submitted
+2022-02-03 11:50:43,017 - iBANKING -INFO - Application successfully Navigated to Home Page
+2022-02-03 11:50:44,019 - iBANKING -INFO - Closing the Browser
+2022-02-03 11:50:49,730 - iBANKING -INFO - Browser Driver Initiated
+2022-02-03 11:50:49,870 - iBANKING -INFO - Browser Maximized
+2022-02-03 11:51:01,814 - iBANKING -INFO - Application Launched
+2022-02-03 11:53:03,464 - iBANKING -INFO - Closing the Browser
+2022-02-04 18:24:40,725 - iBANKING -INFO - Browser Driver Initiated
+2022-02-04 18:24:41,186 - iBANKING -INFO - Browser Maximized
+2022-02-04 18:24:56,707 - iBANKING -INFO - Application Launched
+2022-02-04 18:25:04,203 - iBANKING -INFO - Entered User Name
+2022-02-04 18:25:04,528 - iBANKING -INFO - Entered Password
+2022-02-04 18:25:27,174 - iBANKING -INFO - Submitted
+2022-02-04 18:25:33,111 - iBANKING -INFO - Application successfully Navigated to Home Page
+2022-02-04 18:25:42,558 - iBANKING -INFO - Closing the Browser
+2022-02-04 18:39:40,131 - iBANKING -INFO - Browser Driver Initiated
+2022-02-04 18:39:40,613 - iBANKING -INFO - Browser Maximized
+2022-02-04 18:39:54,590 - iBANKING -INFO - Application Launched
+2022-02-04 18:40:26,702 - iBANKING -INFO - Closing the Browser
+2022-02-07 18:38:42,649 - iBANKING -INFO - Browser Driver Initiated
+2022-02-07 18:38:44,703 - iBANKING -INFO - Browser Maximized
+2022-02-07 18:38:59,100 - iBANKING -INFO - Application Launched
+2022-02-07 18:39:01,630 - iBANKING -INFO - Entered User Name
+2022-02-07 18:39:01,915 - iBANKING -INFO - Entered Password
+2022-02-07 18:39:08,842 - iBANKING -INFO - Submitted
+2022-02-07 18:39:11,928 - iBANKING -INFO - Application successfully Navigated to Home Page
+2022-02-07 18:39:13,594 - iBANKING -INFO - Closing the Browser
+2022-02-07 18:39:24,478 - iBANKING -INFO - Browser Driver Initiated
+2022-02-07 18:39:24,612 - iBANKING -INFO - Browser Maximized
+2022-02-07 18:39:37,239 - iBANKING -INFO - Application Launched
+2022-02-07 18:40:19,674 - iBANKING -INFO - Closing the Browser
